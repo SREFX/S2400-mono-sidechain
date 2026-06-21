@@ -1,5 +1,5 @@
 # S2400-mono-sidechain
-A dual mono sidechain plugin for the S2400 DSP card.
+A dual mono sidechain plugin for the S2400 DSP card built using Distrho.
 
 Place the mono signal you want to use as a source on the left channel of a stereo bus. Place the mono signal you want to be sidechained on the right channel.
 
